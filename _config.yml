@@ -1,7 +1,7 @@
 name: "scanAR"
 description: "Website for testing AR"
 
-url: 'https://scanar.github.io/' 
+url: 'https://tesibio/scanar.github.io/' 
 baseurl: ''
 
 # Build settings
